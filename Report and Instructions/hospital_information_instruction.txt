@@ -1,0 +1,10 @@
+
+
+
+admin Username: Admin
+admin password: Password
+
+for the doctors, passwords can be given by admin. so it will show in a table of admin side.
+example doctor: 
+	username: Malith
+	password: Kalinga
